@@ -44,8 +44,7 @@ h6 {
   font-weight: 600;
   line-height: 96px;
   padding: 0;
-  z-index: 2;
-  outline: solid red;
+  z-index: 2; 
 }
 .header__subtitle {
   position: absolute;
