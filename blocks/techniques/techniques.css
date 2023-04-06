@@ -1,6 +1,5 @@
 .techniques {
   display: flex;
-  position: relative;
   width: 80%;
   flex-direction: column;
   justify-content: start;

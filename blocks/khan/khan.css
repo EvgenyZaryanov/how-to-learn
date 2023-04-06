@@ -1,6 +1,5 @@
 .khan {
   display: flex;
-  position: relative;
   flex-direction: column;
   background-color: #f2f2f2;
 }
