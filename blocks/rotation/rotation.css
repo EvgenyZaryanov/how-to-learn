@@ -6,9 +6,6 @@
     transform: rotate(360deg);
   }
 }
-.header__square-pic_rotate {
-  animation: 20s linear infinite rotate;
-}
-.kaufman__triangle_rotate {
+.rotation {
   animation: 20s linear infinite rotate;
 }

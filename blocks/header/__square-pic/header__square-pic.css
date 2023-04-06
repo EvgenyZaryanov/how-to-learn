@@ -7,3 +7,11 @@
   top: 64px;
   right: 0;
 }
+.header__square-pic,
+.rotation {
+  animation: 20s linear infinite rotate;
+}
+.kaufman__triangle,
+.rotation {
+  animation: 20s linear infinite rotate;
+}
