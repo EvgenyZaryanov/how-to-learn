@@ -11,4 +11,4 @@
 5.Iframe для размещения образовательных видео в проект.
 6.Файловая структура проекта выстроена по правилам Nested БЭМ.
 
-Ссылка на проект - <https://evgenyzaryanov.github.io/how-to-learn/>
+[Ссылка на проект](https://evgenyzaryanov.github.io/how-to-learn/index.html)
