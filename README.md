@@ -1,4 +1,4 @@
-# Проект "Научиться учиться" <img src="images/free-icon-books-stack-of-three-29302.png" style="margin-bottom: 0px; padding-bottom: 0px; display: flex; align-content: bottom; align-items: bottom; align-self: bottom" width="40px" height="40px" />
+# Проект "Научиться учиться" <img src="images/free-icon-books-stack-of-three-29302.png" style="position: absolute; bottom: 0px;" width="40px" height="40px" />
 
 Html-страница "Научиться учиться" содержит информацию о современных и эффективных подходах к обучению, которыми может воспользоваться любой желающий. На странице собраны интересные техники, методы и принципы обучения, которые позволяют сделать процесс самообразования более продуктивным и систематизированным.  
 
